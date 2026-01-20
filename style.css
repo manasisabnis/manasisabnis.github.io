@@ -72,7 +72,6 @@
     text-decoration: underline;
   }
   
-  /* Responsive */
   @media (max-width: 600px) {
     body {
       padding: 16px;
